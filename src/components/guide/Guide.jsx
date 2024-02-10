@@ -6,6 +6,9 @@ const Guide = () => {
   return (
     <div>
         <section className="guide">
+          <div className="free">
+            <h6>free Guide</h6>
+          </div>
   <div className="container guide-con">
     <div className="row guide-row">
       <div className="col-md-6 guide-col">

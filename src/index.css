@@ -140,7 +140,9 @@ html,body{
       margin-top: 8px !important;
       padding-bottom: 9px !important;
      }
-
+     .guide .free h6{
+      display: none !important;
+    }
      .guide-col h1{
       font-size: 38px !important;
   }
@@ -240,7 +242,9 @@ padding-right: 50px;
   .blog-row-con {
     margin-left: 20px;
   }
-
+ 
+ 
+ 
   .guide-col h1 {
     font-size: 36px !important;
   }
@@ -249,7 +253,9 @@ padding-right: 50px;
     margin-top: -80px !important;
     padding-right: 30px;
   }
-
+  
+  
+  
   .online-con {
     margin-top: 20px;
     padding-top: 300px;

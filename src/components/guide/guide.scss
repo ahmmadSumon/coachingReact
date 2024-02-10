@@ -1,6 +1,7 @@
 // Guide.scss
 
 .guide {
+  position: relative;
     .guide-con {
       margin-top: 158px;
       padding-bottom: 139px;
@@ -43,4 +44,18 @@
       }
     }
   }
-  
+  .free{
+    position: absolute;
+    right: 17.5%;
+    top: 12%;
+    h6{
+      height: 96px;
+      width: 96px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #FFF;
+      border-radius: 50%;
+      background-color: #20AD96;
+    }
+  }
